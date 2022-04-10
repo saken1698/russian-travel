@@ -1,0 +1,13 @@
+.header__lang-link{
+    margin-right: 18px;
+    color: #fff;
+}
+
+.header__lang-link:last-of-type{
+    margin: 0;
+}
+
+.header__lang-link:hover{
+    opacity: .5;
+    transition: .5s;
+}
