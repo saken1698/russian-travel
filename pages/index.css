@@ -3,8 +3,9 @@
 
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/header.css");
-@import url("../blocks/header/__lang-link/header__lang-link_ru.css");
-@import url("../blocks/header/__lang-link/header__lang-link_en.css");
+@import url("../blocks/header/__lang-link/_ru/header__lang-link_ru.css");
+@import url("../blocks/header/__lang-link/header__lang-link.css");
+@import url("../blocks/header/__lang-link/_en/header__lang-link_en.css");
 
 @import url("../blocks/body/body.css");
 
